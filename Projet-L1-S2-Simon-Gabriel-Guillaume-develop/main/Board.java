@@ -84,6 +84,7 @@ public class Board {
 			System.out.println();
 		}
 		
+		
 		Console.showWinner(joueur.getNom());   //On affiche le gagnant
 		joueur.changePoints();
 		
